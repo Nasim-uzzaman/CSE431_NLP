@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 https:https://youtu.be/QDCnRckIWmg
 
 
-Link of paper: https://aclanthology.org/2021.bionlp-
+Link of paper: https://aclanthology.org/2021.bionlp-1.15.pdf?fbclid=IwAR3uAsWCqwCBMM9zt_Gk8TVJ2ybveXCFiOCf4QlaSCpsKenFLRGEmxvh5sA
 
 
 Submitter
