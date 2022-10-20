@@ -2,6 +2,9 @@ Link to unlisted youtube video:
 https:https://youtu.be/QDCnRckIWmg
 
 
+Link of paper: https://aclanthology.org/2021.bionlp-...
+
+
 Submitter
 Group: 04
 
