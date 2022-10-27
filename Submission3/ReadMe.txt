@@ -2,7 +2,7 @@ concept map(original):
 
 
 concept map(pdf):
-
+https://drive.google.com/drive/folders/1T3FdEhMQ4st7lBQB8f99dkUx3iOJJ5qJ
 
 
 unlisted youtube video:
